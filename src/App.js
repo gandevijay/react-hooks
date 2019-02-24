@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useReducer } from 'react';
+import React, { useState, useReducer } from 'react';
 import Routes from './routes';
 import Context from './utils/context';
 import * as ACTIONS from './store/actions/actions';
